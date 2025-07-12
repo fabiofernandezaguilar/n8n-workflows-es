@@ -5,7 +5,7 @@
 
 # 🧠 Colección de Flujos de Trabajo de n8n
 
-Este repositorio es un **fork** de la iniciativa original de [@Zie619](https://github.com/Zie619/n8n-workflows), quien recopiló flujos de trabajo (workflows) de n8n procedentes de diversas fuentes, tales como:
+Este repositorio es un **fork** de la iniciativa original de [@Zie619](https://github.com/Zie619/n8n-workflows) y luego de DragonJAR/n8n-workflows-es, quien recopiló flujos de trabajo (workflows) de n8n procedentes de diversas fuentes, tales como:
 
 - El sitio oficial de [n8n.io](https://n8n.io/) y su foro comunitario.  
 - Ejemplos compartidos públicamente en GitHub, blogs y otros sitios web.
